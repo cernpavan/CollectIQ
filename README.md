@@ -81,3 +81,71 @@ Ideal for wholesale businesses such as Kirana shops, medical wholesalers, and ge
     +--- Send Reminders           |
         View Party Analytics      |
         View Collection History   |
+
+
+
+
+
+📊 Analytics & ML Engine Details
+Inputs:
+Purchase history (volume, frequency)
+
+Payment patterns (timeliness, amount)
+
+Outstanding balances
+
+Outputs:
+Risk Score (0 to 1 scale)
+
+Payment Frequency Clusters (Frequent, Irregular, Delayed)
+
+Suggested payment reminder intervals
+
+Debtor categorization (Safe / Watch / Risky)
+
+Example Use Cases:
+Credit risk prediction for each party
+
+Automated reminder scheduling based on predicted behavior
+
+Sales and collection trend visualizations
+
+Party segmentation for better decision making
+
+🧾 Features Breakdown
+Admin Module
+Employee management (CRUD)
+
+Party assignment and management
+
+Company-wide and party-specific reports with filtering
+
+Control employee permissions
+
+Send reminders & initiate payments via Razorpay
+
+Visualize sales and collection analytics
+
+Employee Module
+Secure login with role-based access
+
+View and update assigned party payment statuses
+
+Access party-wise analytics
+
+Generate Razorpay payment links/invoices
+
+Send payment reminders to retailers
+
+🔐 Security
+JWT token-based authentication
+
+Role-Based Access Control (Admin & Employee)
+
+Audit trails and action logging for accountability
+
+🤝 Contribution & Contact
+Contributions are welcome!
+Feel free to open issues or submit pull requests.
+Contact: gunupatipavankumar@gmail.com
+
