@@ -2,7 +2,7 @@
 
 # CollectIQ — Smart Payment Collection & Business Analytics Platform for Wholesalers
 
-![CollectIQ Logo](link-to-your-logo-if-any)
+
 
 ## 🚀 Project Overview
 
@@ -10,6 +10,11 @@
 
 Ideal for wholesale businesses such as Kirana shops, medical wholesalers, and general retailers, CollectIQ empowers admins and collection agents with powerful tools to manage payments, analyze data, and reduce risks effectively.
 
+⚠️ **Important Notice:**  
+This project is an **ERP tool for wholesalers** that handles sensitive business and payment data.  
+The **source code is private** and not publicly available to prevent misuse, unauthorized copying, and to protect confidential business information.
+
+If you want to learn more about the project or see a demo, please contact me directly at: pavan.kumar@example.com
 ---
 
 ## 🧰 Tech Stack
